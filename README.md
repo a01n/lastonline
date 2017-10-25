@@ -11,9 +11,10 @@ Type the following in chat in game:
 ```
 `glist
 ```
-. If successful, you will see a message indicating where the guild roster was saved. Open this file with your favorite spreadsheet editor.
+If successful, you will see a message indicating where the guild roster was saved. Open this file with your favorite spreadsheet editor.
 
 If you wish to change the date format for a more or less specific format, modify the following line in the `save()` function:
 ```
 last = last.toLocaleDateString();
-```. Documentation of useful format strings is available [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString).
+```
+Documentation of useful format strings is available [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString).
