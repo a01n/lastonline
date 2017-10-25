@@ -1,12 +1,12 @@
-#lastonline
+# lastonline
 Create a spreadsheet of your guild roster, ordered by last online date, given in a more human readable and accurate format than available in game. Requires [tera-proxy](https://github.com/meishuu/tera-proxy) and [slash](https://github.com/baldera-mods/slash).
 
-##Features
+## Features
 - Output guild roster as .csv format sorted by last seen date
 - Last online format is localized to your time zone
 - Accurate to the second
 
-##Usage
+## Usage
 Type the following in chat in game:
 ```
 `glist
